@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-cn">
+		<head>
+				<title>ComboBox</title>
+				<link rel="stylesheet" href="jquery.combobox.css" />
+				<script type="text/javascript" src="jquery.js"></script>
+				<script type="text/javascript" src="jquery.bgiframe.pack.js"></script>
+				<script type="text/javascript" src="jquery.combobox.js"></script>
+				<script type="text/javascript">
+					$(function() {
+						$('.combo').combobox(['china', 'japan', 'usa', 'russia']);
+					});
+				</script>
+		</head>
+		<body>
+			<h1>jQuery.combobox demostation</h1>
+			<h2>Description</h2>
+			<p>jQuery.combobox is a lightweight jQuery plugin which transforms a textbox into a combobox, so users can enter text or select from supplied options.</p>
+			<p>It could be called more than once on the same textbox<del>, however only the first time calling counts -- which means you can't change the suggestions once the combobox is created</del>.</p>
+			<p>It would work with jQuery.bgiframe plugin to fix the IE select/zIndex bug if you include it in the same page.</p>
+			<p>Tested in IE 7, Firefox 3.</p>
+
+			<h2>Updates</h2>
+			<dl>
+				<dt>2009-3-18</dt>
+				<dd>Suggestion matching is now case-insensitive</dd>
+				<dd>The second time setting up combobox is working now</dd>
+				<dd>Fixed the IE relative z-index bug by avoiding relative positioning</dd>
+			</dl>
+			
+			<h2>Demostartion</h2>
+			<form>
+				<p>
+					<input type="text" name="combo" class="combo" id="combo" /> Combobox 1
+				</p>
+				<p>
+					<input type="text" name="combo2" class="combo" id="combo2" /> Combobox 2
+				</p>
+				<p>
+					<select>
+						<option>1</option>
+						<option>2</option>
+					</select>
+					This is a select box to see if there is a problem in IE.
+				</p>
+				<p><input type="submit" value="A sample submit button" /></p>
+			</form>
+			
+			<h2>Usage</h2>
+			<h3>Html</h3>
+			<pre>
+&lt;input class="combo" /&gt;</pre>
+			<h3>Script</h3>
+<pre>
+&lt;link href="jquery.combobox.css" rel="stylesheet" /&gt;
+&lt;script type="text/javascript" src="jquery.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="jquery.combobox.min.js"&gt;&lt;/script&gt;
+
+jQuery('.combo').combobox(['option1', 'option2', 'option3', ...], {imageUrl : '/images/dropdown.gif'});</pre>
+			</p>
+			<h2>Copyright</h2>
+			<p>It's released under the MIT licence, so use it however you want.</p>
+			<p>By deerchao@gmail.com on 2009-3-16</p>
+		</body>
+</html>

@@ -1,0 +1,5 @@
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayModel\bin\Debug\FTRailwayModel.dll
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayModel\bin\Debug\FTRailwayModel.pdb
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayModel\obj\Debug\ResolveAssemblyReference.cache
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayModel\obj\Debug\FTRailwayModel.dll
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayModel\obj\Debug\FTRailwayModel.pdb

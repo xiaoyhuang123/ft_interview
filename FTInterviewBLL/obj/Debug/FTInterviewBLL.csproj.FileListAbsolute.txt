@@ -1,0 +1,300 @@
+H:\Personal Projects\Interview system\Interview0731\FTInterviewBLL\obj\Debug\ResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview0731\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview0731\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview0731\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview0731\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview0731\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview0731\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview0731\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview0731\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview0731\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview0802\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview0802\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview0802\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview0802\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview0802\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview0802\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview0802\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview0802\FTInterviewBLL\obj\Debug\ResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview0802\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview0802\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview0827\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview0827\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview0827\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview0827\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview0827\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview0827\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview0827\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview0827\FTInterviewBLL\obj\Debug\ResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview0827\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview0827\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview0902\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview0902\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview0902\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview0902\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview0902\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview0902\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview0902\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview0902\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview0902\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview0902\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview0921\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview0921\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview0921\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview0921\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview0921\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview0921\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview0921\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview0921\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview0921\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview0921\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1001\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1001\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1001\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview1001\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview1001\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview1001\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview1001\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview1001\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview1001\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1001\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1030\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1030\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1030\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview1030\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview1030\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview1030\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview1030\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview1030\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview1030\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1030\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1103\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1103\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1103\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview1103\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview1103\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview1103\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview1103\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview1103\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview1103\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1103\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1104\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1104\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1104\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview1104\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview1104\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview1104\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview1104\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview1104\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview1104\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1104\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1106\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1106\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1106\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview1106\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview1106\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview1106\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview1106\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview1106\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview1106\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1106\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1106_v2\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1106_v2\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\Interview1106_v2\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\Interview1106_v2\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\Interview1106_v2\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\Interview1106_v2\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\Interview1106_v2\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\Interview1106_v2\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\Interview1106_v2\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\Interview1106_v2\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\InterviewSystem_2016年的版本\InterviewSystem_20160307\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\InterviewSystem_2016年的版本\InterviewSystem_20160307\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\Personal Projects\Interview system\InterviewSystem_2016年的版本\InterviewSystem_20160307\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\Personal Projects\Interview system\InterviewSystem_2016年的版本\InterviewSystem_20160307\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\Personal Projects\Interview system\InterviewSystem_2016年的版本\InterviewSystem_20160307\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\Interview system\InterviewSystem_2016年的版本\InterviewSystem_20160307\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\Personal Projects\Interview system\InterviewSystem_2016年的版本\InterviewSystem_20160307\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\Personal Projects\Interview system\InterviewSystem_2016年的版本\InterviewSystem_20160307\FTInterviewBLL\obj\Debug\ResolveAssemblyReference.cache
+H:\Personal Projects\Interview system\InterviewSystem_2016年的版本\InterviewSystem_20160307\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\Personal Projects\Interview system\InterviewSystem_2016年的版本\InterviewSystem_20160307\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\InterviewSystem_2016年的版本\InterviewSystem_20160429\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\InterviewSystem_2016年的版本\InterviewSystem_20160429\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\InterviewSystem_2016年的版本\InterviewSystem_20160429\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\InterviewSystem_2016年的版本\InterviewSystem_20160429\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\InterviewSystem_2016年的版本\InterviewSystem_20160429\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\InterviewSystem_2016年的版本\InterviewSystem_20160429\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\InterviewSystem_2016年的版本\InterviewSystem_20160429\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\InterviewSystem_2016年的版本\InterviewSystem_20160429\FTInterviewBLL\obj\Debug\ResolveAssemblyReference.cache
+H:\InterviewSystem_2016年的版本\InterviewSystem_20160429\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\InterviewSystem_2016年的版本\InterviewSystem_20160429\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\InterviewSystem\InterviewSystem_2016年的版本\InterviewSystem_20160501\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\InterviewSystem\InterviewSystem_2016年的版本\InterviewSystem_20160501\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\InterviewSystem\InterviewSystem_2016年的版本\InterviewSystem_20160501\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\InterviewSystem\InterviewSystem_2016年的版本\InterviewSystem_20160501\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\InterviewSystem\InterviewSystem_2016年的版本\InterviewSystem_20160501\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\InterviewSystem\InterviewSystem_2016年的版本\InterviewSystem_20160501\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\InterviewSystem\InterviewSystem_2016年的版本\InterviewSystem_20160501\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\InterviewSystem\InterviewSystem_2016年的版本\InterviewSystem_20160501\FTInterviewBLL\obj\Debug\ResolveAssemblyReference.cache
+H:\InterviewSystem\InterviewSystem_2016年的版本\InterviewSystem_20160501\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\InterviewSystem\InterviewSystem_2016年的版本\InterviewSystem_20160501\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\InterviewSystem\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\InterviewSystem\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\InterviewSystem\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\InterviewSystem\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\InterviewSystem\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\InterviewSystem\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\InterviewSystem\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\InterviewSystem\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\InterviewSystem\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\InterviewSystem\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+H:\InterviewSystem\InterviewSystem20161009\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+H:\InterviewSystem\InterviewSystem20161009\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+H:\InterviewSystem\InterviewSystem20161009\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+H:\InterviewSystem\InterviewSystem20161009\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+H:\InterviewSystem\InterviewSystem20161009\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\MySql.Data.dll
+H:\InterviewSystem\InterviewSystem20161009\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+H:\InterviewSystem\InterviewSystem20161009\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+H:\InterviewSystem\InterviewSystem20161009\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+H:\InterviewSystem\InterviewSystem20161009\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+H:\InterviewSystem\InterviewSystem20161009\InterviewSystem20161009\InterviewSystem_20161009\InterviewSystem_20161009\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20161010\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20161010\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20161010\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20161010\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20161010\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20161010\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20161010\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20161010\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20161010\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20161010\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20170106\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20170106\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\InterviewSystem_20161010\InterviewSystem_20170106\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\新建文件夹\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\新建文件夹\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\新建文件夹\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\新建文件夹\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\新建文件夹\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\新建文件夹\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\新建文件夹\InterviewSystem_20170106\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\新建文件夹\InterviewSystem_20170106\FTInterviewBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\InterviewSystem_20170106\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\新建文件夹\InterviewSystem_20170106\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\新建文件夹\InterviewSystem_20170110\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\新建文件夹\InterviewSystem_20170110\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\新建文件夹\InterviewSystem_20170110\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\新建文件夹\InterviewSystem_20170110\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\新建文件夹\InterviewSystem_20170110\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\新建文件夹\InterviewSystem_20170110\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\新建文件夹\InterviewSystem_20170110\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\新建文件夹\InterviewSystem_20170110\FTInterviewBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\InterviewSystem_20170110\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\新建文件夹\InterviewSystem_20170110\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\黄红益\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\黄红益\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\黄红益\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\黄红益\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_2017\InterviewSystem_20170111\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171203\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171203\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171203\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171203\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171203\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171203\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171203\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171203\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171203\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171203\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+F:\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+F:\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+F:\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+F:\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+F:\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\MySql.Data.dll
+F:\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+F:\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+F:\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\ResolveAssemblyReference.cache
+F:\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+F:\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181212\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181212\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181212\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181212\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181212\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181212\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181212\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181212\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\黄红益\InterviewSystem_20181212\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181212\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\黄红益\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+F:\InterviewSystem_20181213\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+F:\InterviewSystem_20181213\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+F:\InterviewSystem_20181213\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+F:\InterviewSystem_20181213\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+F:\InterviewSystem_20181213\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\MySql.Data.dll
+F:\InterviewSystem_20181213\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+F:\InterviewSystem_20181213\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+F:\InterviewSystem_20181213\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\ResolveAssemblyReference.cache
+F:\InterviewSystem_20181213\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+F:\InterviewSystem_20181213\InterviewSystem_20181213\InterviewSystem_2018\InterviewSystem_2018\InterviewSystem_20171208\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181221\InterviewSystem_20171221\FTInterviewBLL\bin\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181221\InterviewSystem_20171221\FTInterviewBLL\bin\Debug\FTInterviewBLL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181221\InterviewSystem_20171221\FTInterviewBLL\bin\Debug\FTInterviewDAL.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181221\InterviewSystem_20171221\FTInterviewBLL\bin\Debug\FTInterviewModel.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181221\InterviewSystem_20171221\FTInterviewBLL\bin\Debug\MySql.Data.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181221\InterviewSystem_20171221\FTInterviewBLL\bin\Debug\FTInterviewDAL.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181221\InterviewSystem_20171221\FTInterviewBLL\bin\Debug\FTInterviewModel.pdb
+D:\个人项目资料\黄红益\InterviewSystem_20181221\InterviewSystem_20171221\FTInterviewBLL\obj\Debug\FTInterviewBLL.csprojResolveAssemblyReference.cache
+D:\个人项目资料\黄红益\InterviewSystem_20181221\InterviewSystem_20171221\FTInterviewBLL\obj\Debug\FTInterviewBLL.dll
+D:\个人项目资料\黄红益\InterviewSystem_20181221\InterviewSystem_20171221\FTInterviewBLL\obj\Debug\FTInterviewBLL.pdb

@@ -1,0 +1,10 @@
+F:\丰台铁路局请假管理\项目程序\FTRailway\FTRailwayBLL\bin\Release\FTRailwayBLL.dll
+F:\丰台铁路局请假管理\项目程序\FTRailway\FTRailwayBLL\bin\Release\FTRailwayBLL.pdb
+F:\丰台铁路局请假管理\项目程序\FTRailway\FTRailwayBLL\bin\Release\FTRailwayDAL.dll
+F:\丰台铁路局请假管理\项目程序\FTRailway\FTRailwayBLL\bin\Release\FTRailwayModel.dll
+F:\丰台铁路局请假管理\项目程序\FTRailway\FTRailwayBLL\bin\Release\MySql.Data.dll
+F:\丰台铁路局请假管理\项目程序\FTRailway\FTRailwayBLL\bin\Release\FTRailwayDAL.pdb
+F:\丰台铁路局请假管理\项目程序\FTRailway\FTRailwayBLL\bin\Release\FTRailwayModel.pdb
+F:\丰台铁路局请假管理\项目程序\FTRailway\FTRailwayBLL\obj\Release\ResolveAssemblyReference.cache
+F:\丰台铁路局请假管理\项目程序\FTRailway\FTRailwayBLL\obj\Release\FTRailwayBLL.dll
+F:\丰台铁路局请假管理\项目程序\FTRailway\FTRailwayBLL\obj\Release\FTRailwayBLL.pdb

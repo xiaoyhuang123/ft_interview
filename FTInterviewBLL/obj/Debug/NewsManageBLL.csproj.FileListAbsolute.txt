@@ -1,0 +1,10 @@
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayBLL\bin\Debug\FTRailwayBLL.dll
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayBLL\bin\Debug\FTRailwayBLL.pdb
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayBLL\bin\Debug\FTRailwayDAL.dll
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayBLL\bin\Debug\FTRailwayModel.dll
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayBLL\bin\Debug\MySql.Data.dll
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayBLL\bin\Debug\FTRailwayDAL.pdb
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayBLL\bin\Debug\FTRailwayModel.pdb
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayBLL\obj\Debug\ResolveAssemblyReference.cache
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayBLL\obj\Debug\FTRailwayBLL.dll
+H:\Personal Projects\ft0403\FTRailway_0403\FTRailwayBLL\obj\Debug\FTRailwayBLL.pdb

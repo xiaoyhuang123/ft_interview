@@ -1,0 +1,4 @@
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\bin\FTRailway.pdb
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\obj\Debug\FTRailway.dll
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\obj\Debug\FTRailway.pdb
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\obj\Debug\FTRailway.csprojResolveAssemblyReference.cache

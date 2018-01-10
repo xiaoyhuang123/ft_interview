@@ -1,0 +1,10 @@
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\bin\FTRailway.pdb
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\bin\FTRailwayBLL.dll
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\bin\FTRailwayDAL.dll
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\bin\FTRailwayModel.dll
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\bin\FTRailwayBLL.pdb
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\bin\FTRailwayDAL.pdb
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\bin\FTRailwayModel.pdb
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\obj\Debug\FTRailwayWeb.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\obj\Debug\FTRailway.dll
+e:\documents\visual studio 2010\Projects\FTRailway\FTRailway\obj\Debug\FTRailway.pdb
